@@ -9,7 +9,7 @@ class ButtonsComponent extends Component{
         <Button variant="warning">Warning</Button>{' '}
         <Button variant="danger">Danger</Button> <Button variant="info">Info</Button>{' '}
         <Button variant="light">Light</Button> <Button variant="dark">Dark</Button>{' '}
-        <Button variant="link">Link to Click</Button>
+        <Button variant="link">Link example button</Button>
         </div>);
     }
 }
