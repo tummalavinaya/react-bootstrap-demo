@@ -10,7 +10,10 @@ class Form extends Component{
     render(){
         return (<form onSubmit = {this.handleSubmit}>
             <label>
-                Name :
+        firstName :
+        lastName :
+        email :
+        phone:
             </label>
 
         </form>);
